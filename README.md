@@ -3,7 +3,7 @@ This is a private maven repository for `unclazz.org`.
 To use this repository as artifact source for your project,
 insert a code snippet below into `pom.xml`.
 
-```xml:
+```xml
 <repositories>
     ...
     <repository>
